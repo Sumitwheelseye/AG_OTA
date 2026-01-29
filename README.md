@@ -74,7 +74,7 @@ Service UUID: 000000ff-0000-1000-8000-00805f9b34fb
 8. OTA Stop Command and wait for response
 9. AG will reboot and Upgrage it's firmware
 
-![OTA PROCESS](additional\ota_process.png)
+![OTA PROCESS](additional/ota_process.png)
 
 ---
 
